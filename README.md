@@ -1,6 +1,6 @@
 # Práctica de Visualización
 
-Este repositorio contiene el enunciado de la práctica de la quinta semana.
+Este repositorio contiene el enunciado de la práctica de visualización.
 
 ## Estructura
 
