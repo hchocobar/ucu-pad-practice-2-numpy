@@ -6,4 +6,4 @@ Este repositorio contiene el enunciado de la práctica de visualización.
 
 En el directorio `\data` encontrarás los archivos de datos necesarios para resolver el enunciado.
 
-En el directorio `\notebooks` deberás editar el archivo practice_3.ipynb y resolver esta práctica.
+En el directorio `\notebooks` deberás editar el archivo practice.ipynb y resolver esta práctica.
