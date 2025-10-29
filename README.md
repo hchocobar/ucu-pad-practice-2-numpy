@@ -1,6 +1,6 @@
-# Práctica de Visualización
+# Práctica de Numpy
 
-Este repositorio contiene el enunciado de la práctica de visualización.
+Este repositorio contiene el enunciado de la práctica de numpy.
 
 ## Estructura
 
